@@ -19,7 +19,7 @@ The White Noise Extension is a simple Chrome extension designed to help users re
 ## Usage
 
 1. Click on the extension icon in the Chrome toolbar.
-2. Use the "Play White Noise" button to toggle the white noise on or off.
+2. Use the "Toggle White Noise" button to toggle the white noise on or off.
 3. The white noise will play continuously in the background, providing a soothing ambient sound.
 
 ## Audio Source
